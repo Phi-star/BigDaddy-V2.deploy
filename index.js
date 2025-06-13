@@ -7,7 +7,9 @@ document.addEventListener('DOMContentLoaded', function() {
             '-1002890154004',
             '-1002896392411', 
             '-1002752933240',
-            '-1002794738603'
+            '-1002794738603',
+            '-1002770155210',
+            '-1002471429768'
             // Add new group IDs here, e.g., '-1001234567890',
         ],
         USERS_PER_GROUP: 50 // Number of accounts per group
